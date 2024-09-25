@@ -183,5 +183,5 @@ Last, once your files are fully reviewed and renamed, move the files from your w
 
 I'm Gene Wilburn, a Canadian writer, photographer, retired IT professional, and occasional folk singer. I have been photographing since age 12 so I curate a lot of scanned and out-of-camera digital images. I have found that the system I advocate here not only works, but works very well for organising and finding images.
 
-Let me add that I'm not a programming maven. I'm a programming duffer who writes scripts and small utilities when I can't find ones that already do a particular task I need done, or in this case, a utility that is cross-platform. I hope you enjoy using `photorename.py`. Kudos to you if you want to modify it for your own needs. It's openly open source, with no copyright attached.
+Let me add that I'm not a programming maven. I'm a duffer who writes scripts and small utilities when I can't find ones that already do a particular task I need done, or in this case, a utility that is cross-platform. I hope you enjoy using `photorename.py`. Kudos to you if you want to modify it for your own needs. It's openly open source, with no copyright attached.
 
