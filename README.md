@@ -73,9 +73,9 @@ Windows doesn't have Python3 installed by default. To install Python3, go to [py
 To verify that it installed correctly, press the Windows key and type 'cmd' and press Enter. Then type 'python \-\-version' (without the quotes). If it's installed okay it will display the version number. On the next line type 'pip install Pillow':
 
 ```
-> `C:\Users\gene\python \-\-version`
-> `Python 3.12.6
-> `C:\Users\gene\pip install Pillow`
+C:\Users\gene\python \-\-version
+Python 3.12.6
+C:\Users\gene\pip install Pillow
 ```
 
 ## Where To Store `photorename.py`
@@ -84,7 +84,7 @@ To verify that it installed correctly, press the Windows key and type 'cmd' and 
 
 The most obvious place to put `photorename.py` is in your $HOME/bin directory. If you don't have a bin/ directory you can make one by starting a terminal and typing 'mkdir bin'. Many .bashrc scripts are already set up to add $HOME/bin to your pathname if it exists. Otherwise, edit .bashrc and on the last line of the script type:
 
->`export PATH="$HOME/bin;$PATH"`
+>`export PATH="$HOME/bin:$PATH"`
 
 Then type
 
